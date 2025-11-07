@@ -1,0 +1,5 @@
+{
+  "name": "Nova Academy Landing Page",
+  "description": "A modern and responsive landing page for an online school, featuring an application form, student reviews, and a gallery. Built with React, TypeScript, and Tailwind CSS for a beautiful user experience.",
+  "requestFramePermissions": []
+}
